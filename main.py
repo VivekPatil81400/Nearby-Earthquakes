@@ -1,4 +1,3 @@
-from operator import le
 import requests, json
 import haversine as hs
 
